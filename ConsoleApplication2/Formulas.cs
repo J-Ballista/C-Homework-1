@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Homework1_3;
 
-namespace Homework1_4 // YAY!!!
+namespace Homework1_4
 {
     public class MainFormulas
     {
